@@ -32,8 +32,8 @@ $ ./mysh
 
 Ci-dessous vous trouverez un tableau qui récapitule l'ensemble des fonctionnalités implémentées (ou non) dans le projet.
 
-| Fonctionnalités | Implémentée? | Note | Par qui? |
-| --------------- | ------------ | ---- | -------- |
+| Fonctionnalités | Implémentée? | Note |
+| --------------- | ------------ | ---- |
 | **Lancement de commandes** |            |      |
 | Séquencement | ✔️ | le séparateur `;` doit être espacé entre deux séquences (comme dans l'exemple du sujet). |
 | Wildcards | ✔️ | - |
